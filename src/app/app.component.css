@@ -1,0 +1,17 @@
+.bebidas{
+    display: flex;
+    justify-content: space-around;
+    background-color:#7C3030;
+    padding: 25px 20px;
+}
+.bebidas a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px;
+}
+a:hover{
+    background-color: 	#92000A;
+    font-size: 40px;
+    transition: .5s ease-in;
+}
